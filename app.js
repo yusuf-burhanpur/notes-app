@@ -15,10 +15,8 @@ yargs.command({
             type: 'string',
 
         },
-
         body:{
-
-            describe: 'write your text here',
+             describe: 'write your text here',
             demandOption: true,
             type: 'string',
 
